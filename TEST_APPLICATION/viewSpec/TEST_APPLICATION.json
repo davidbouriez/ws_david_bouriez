@@ -1,0 +1,6 @@
+{
+  "name" : "TEST_APPLICATION",
+  "type" : "page",
+  "controller" : "TEST_APPLICATIONC",
+  "cssClass" : "trillocontainer trillo-container trillo-item-design-mode"
+}

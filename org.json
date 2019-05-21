@@ -1,0 +1,15 @@
+{
+  "authChoice" : "1",
+  "gitConnected" : true,
+  "logos" : {
+    "logoStamp" : "/ws_david_bouriez/shared/static/img/logo-stamp.png"
+  },
+  "name" : "ws_david_bouriez",
+  "rtChoice" : "gce",
+  "rtServerUrlDev" : "https://35.233.24.199",
+  "rtServerUrlInt" : "https://rt.trillo.io",
+  "rtServerUrlProduction" : "https://rt.trillo.io",
+  "rtServerUrlQA" : "https://rt.trillo.io",
+  "rtServerUrlStaging" : "https://rt.trillo.io",
+  "rtUrl" : "https://35.233.24.199"
+}

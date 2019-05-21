@@ -1,0 +1,18 @@
+[
+  {
+    "appTemplate" : "webapp",
+    "blank" : false,
+    "description" : "site de test",
+    "displayName" : "MY FIRST APPLICATION",
+    "htmlHeadTitle" : "my first application",
+    "keywords" : "first application",
+    "linkedApp" : "shared",
+    "name" : "TEST_APPLICATION",
+    "requiredRoles" : "none",
+    "trilloVersion" : "2.0",
+    "useTestData" : true,
+    "usingEnumsCatalog" : true,
+    "usingStringFiles" : true,
+    "usingViewSpecs" : true
+  }
+]
